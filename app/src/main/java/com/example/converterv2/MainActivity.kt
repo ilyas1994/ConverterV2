@@ -28,7 +28,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             ).show()
         }
     }
-
     @SuppressLint("SetTextI18n")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
